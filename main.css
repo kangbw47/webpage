@@ -1,0 +1,34 @@
+.page {
+    background-color: rgb(227, 252, 0);
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 140px;
+    font-size: 80px;
+    text-align: center;
+    margin: 0px;
+    }
+
+.themore {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 160px;
+    font-size: 100px;
+    text-align: center;
+    margin: 0px;
+}
+
+.thesearch {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 160px;
+    font-size: 100px;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.로고 {
+    top: 400px;
+}
